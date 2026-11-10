@@ -1,0 +1,35 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Temporary files
+.DS_Store
+*.tmp
+*.log
+
+# Saved model and training checkpoints
+*.npy
+*.npz
+*.h5
+*.keras
+*.ckpt
+*.ckpt.*
+
+# Generated images (keep curated examples)
+StyleTransfer_Results/
+StyleTransfer_Checkpoints/
+outputs/
+results/
+
+# Local environment files
+.env
+.env.*
