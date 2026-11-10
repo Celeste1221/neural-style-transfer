@@ -2,7 +2,7 @@
 
 A deep learning project that applies artistic styles to photographs using TensorFlow and a pretrained VGG19 convolutional neural network (CNN).
 
-The application allows users to upload their own images, generate stylized results, and choose whether to retain the original photograph's colors or adopt the colors of the style image.
+The application allows users to upload their own images, generate stylized results by applying the style of one photo to the content of another, and choose whether to retain the original photograph's colors or adopt the colors of the style image.
 
 ## Example Results
 
