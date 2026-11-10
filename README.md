@@ -6,11 +6,11 @@ The application allows users to upload their own images, generate stylized resul
 
 ## Example Results
 
-**Content image**
+**Style reference**
 
 ![Content image](examples/notredame%20%281%29.jpg)
 
-**Style reference**
+**Content image**
 
 ![Style image](examples/winterserious.jpg)
 
